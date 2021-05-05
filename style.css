@@ -1,0 +1,14 @@
+.bg{
+        background-image:url(https://wallpaperaccess.com/full/2449594.jpg);
+        border: solid
+}
+.header{
+        display : flex;
+        justify-content: space-evenly;
+}
+.steps{
+        image-rendering: crisp-edges;
+}
+
+
+
